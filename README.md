@@ -65,9 +65,10 @@ Records move through the extraction pipeline and are normalized into schema fiel
 
 ![CabLog Processing](docs/screenshots/Screenshot%202026-05-22%20175758.png)
 
-### 4) Review: Human Verification Before Export
+### 4) Review: Human Verification Before Extraction
 
-Teams validate and adjust extracted values before final CSV/Excel export.
+Validate and adjust API Keys according to your need.
+
 
 ![CabLog Review](docs/screenshots/Screenshot%202026-05-22%20175811.png)
 
