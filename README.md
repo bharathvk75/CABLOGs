@@ -47,13 +47,21 @@ Running with a local model gives real-world advantages:
 
 ## Screenshots
 
-### Desktop
+### Dashboard View
 
-![CabLog Desktop]
+![CabLog Dashboard](docs/screenshots/Screenshot%202026-05-22%20175737.png)
 
-### Mobile
+### Processing View
 
-![CabLog Mobile]
+![CabLog Processing](docs/screenshots/Screenshot%202026-05-22%20175758.png)
+
+### Review & Form View
+
+![CabLog Review](docs/screenshots/Screenshot%202026-05-22%20175811.png)
+
+### Sample Receipt Input
+
+![Sample Receipt](Receipt.jpeg)
 
 ## Tech Stack
 
