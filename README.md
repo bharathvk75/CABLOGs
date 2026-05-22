@@ -47,21 +47,29 @@ Running with a local model gives real-world advantages:
 
 ## Screenshots
 
-### Dashboard View
+### 1) Input: Trip Sheet / Receipt
+
+The operator uploads trip-sheet photos or receipt images as raw input.
+
+![Sample Receipt](Receipt.jpeg)
+
+### 2) Dashboard: Imported Logs and Queue
+
+The dashboard shows imported records, status states, and processing controls.
 
 ![CabLog Dashboard](docs/screenshots/Screenshot%202026-05-22%20175737.png)
 
-### Processing View
+### 3) Extraction: OCR + Structured Data Parsing
+
+Records move through the extraction pipeline and are normalized into schema fields.
 
 ![CabLog Processing](docs/screenshots/Screenshot%202026-05-22%20175758.png)
 
-### Review & Form View
+### 4) Review: Human Verification Before Export
+
+Teams validate and adjust extracted values before final CSV/Excel export.
 
 ![CabLog Review](docs/screenshots/Screenshot%202026-05-22%20175811.png)
-
-### Sample Receipt Input
-
-![Sample Receipt](Receipt.jpeg)
 
 ## Tech Stack
 
