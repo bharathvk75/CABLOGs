@@ -1,0 +1,6 @@
+{
+  "name": "CabLog",
+  "description": "OCR Logistics Dashboard for trip sheet processing and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["OCR", "Data Extraction", "Excel Export"]
+}
